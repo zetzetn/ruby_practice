@@ -5,6 +5,7 @@ x = x + 3.4
 puts x
 x += 10.3
 puts x
+
 x = x / 2
 puts x
 x -= 1.0
